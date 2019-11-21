@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "EndpointRoutingStrange": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "personalpage/123456/reviews/movies/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
